@@ -1,0 +1,23 @@
+{
+  "name": "rafiki-online-cypressbddjavascript",
+  "version": "1.0.0",
+  "description": "Rafiki Online Shhhopping website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obeke1/Rafiki-Online-CypressBDDJavascript.git"
+  },
+  "author": "Obeke Godfrey Vicent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obeke1/Rafiki-Online-CypressBDDJavascript/issues"
+  },
+  "homepage": "https://github.com/obeke1/Rafiki-Online-CypressBDDJavascript#readme",
+  "dependencies": {
+    "cypress": "^13.7.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}
